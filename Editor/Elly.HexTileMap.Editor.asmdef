@@ -1,0 +1,18 @@
+{
+    "name": "Elly.HexTileMap.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b8ccd4ca8d113a74a9415f0910f0fb90"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

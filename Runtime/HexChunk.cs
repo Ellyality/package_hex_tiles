@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,7 @@ namespace HexTiles
     /// Chunk of several hex tiles.
     /// </summary>
     [RequireComponent(typeof(MeshFilter), typeof(MeshRenderer), typeof(MeshCollider))]
+    [AddComponentMenu("Ellyality/Visual/Hex/Chunk")]
     public class HexChunk : MonoBehaviour
     {
         /// <summary>

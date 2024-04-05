@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using System.Linq;
 using System;
@@ -8,6 +8,7 @@ using UnityEngine.Serialization;
 namespace HexTiles
 {
     [SelectionBase]
+    [AddComponentMenu("Ellyality/Visual/Hex/Tile Map")]
     public class HexTileMap : MonoBehaviour
     {
         [FormerlySerializedAs("hexWidth")]
